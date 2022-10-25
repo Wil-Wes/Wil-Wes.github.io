@@ -142,7 +142,7 @@ input, select, textarea {
 		}
 
 		.row > .col-4 {
-			width: 33.33333%;
+			width: auto;
 		}
 
 		.row > .off-4 {
@@ -891,7 +891,7 @@ input, select, textarea {
 				}
 
 				.row > .col-6-medium {
-					width: 50%;
+					width: auto;
 				}
 
 				.row > .off-6-medium {
