@@ -1536,6 +1536,10 @@ input, select, textarea {
 			color: #aaa;
 		}
 
+		/* header > #bio {
+			font-size: xx-small;
+		} */
+
 		@media screen and (max-width: 736px) {
 
 			header {
